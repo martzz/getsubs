@@ -1,6 +1,6 @@
 # getsubs
 
-A helper script to find and download movie subtitles.
+A helper script (python 2.7) to find and download movie subtitles.
 
 ## Subtitle lookup
 
